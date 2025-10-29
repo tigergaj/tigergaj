@@ -2,9 +2,34 @@
 {"dg-publish":true,"permalink":"/02 Creative/Poetry/Lewa's Poetry/","tags":["poem"],"noteIcon":"","created":"2025-07-03T15:42:12.983-04:00"}
 ---
 
+## [[03 Processing/A series of Letters to The Monster/The Monster\|The Monster]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/03 Processing/A series of Letters to The Monster/The Monster/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+The Monster creates
+The Monster listens and waits
+The Monster lies and decieves
+The Monster is looking for a victim
+The Monster is loooking for blood
+The Monster is looking for Me
+
+The Angel is hurt
+The Angel is hiding and crying
+The Angel says "you don't have to do this"
+The Angel says "You're crazy"
+The Angel sees The Monster
+The Monster found Me
+You know what happened next
+
+</div></div>
+
+---
 ## [[02 Creative/Poetry/Moss Thief\|Moss Thief]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02 Creative/Poetry/Moss Thief/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -43,7 +68,7 @@ but not anymore
 ---
 ## [[02 Creative/Poetry/NOT A GIRL\|NOT A GIRL]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02 Creative/Poetry/NOT A GIRL/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -59,7 +84,7 @@ NOT A GIRL NOT A GIRL NOT A GIRL NOT A GIRL NOT A GIRL NOT A GIRL NOT A GIRL NOT
 ---
 ## [[02 Creative/Poetry/The Birds Continue Singing\|The Birds Continue Singing]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02 Creative/Poetry/The Birds Continue Singing/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
