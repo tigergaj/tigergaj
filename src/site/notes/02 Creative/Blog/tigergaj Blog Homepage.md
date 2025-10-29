@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Creative/Blog/tigergaj Blog Homepage/","tags":["blog","gardenEntry"],"noteIcon":"","created":"2025-08-19T22:38:03.524-04:00"}
+{"dg-publish":true,"permalink":"/02 Creative/Blog/tigergaj Blog Homepage/","tags":["blog","gardenEntry"],"noteIcon":"","created":"2025-04-04T09:59:36.553-04:00"}
 ---
 
 # Howdy!
