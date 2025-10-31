@@ -11,7 +11,7 @@ The original tron was released in 1982 and was disqualified from receiving an ac
 
 ---
 
-Tron: Legacy was created in proximity to aesthetics like frutiger aero, emphasizing an optimism about tech. The film takes place almost entirely in the grid and is full of dark colors contrasting against the soft glow lines with bluish-white accents. There’s a serenity and beauty portrayed in the grid and the story delivers a message of self discovery through introspection and reflection. Tron: Legacy
+Tron: Legacy was created in proximity to aesthetics like frutiger aero, emphasizing an optimism about tech. The film takes place almost entirely in the grid and is full of dark colors contrasting against the soft glow lines with bluish-white accents. There’s a serenity and beauty portrayed in the grid and the story delivers a message of self discovery through introspection and reflection.
 
 ---
 ![Pasted image 20251016145144.png](/img/user/Pasted%20image%2020251016145144.png)
